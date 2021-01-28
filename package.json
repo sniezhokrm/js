@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "hometask6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,21 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "javascript": "^1.0.0",
-    "jshint": "^2.12.0"
-  },
-  "camelcase": true,
-  "indent": 2,
-  "undef": true,
-  "quotmark": false,
-  "maxlen": 80,
-  "trailing": true,
-  "curly": true,
-  "strict": false,
-  "browser": true,
-  "devel": true,
-  "jquery": true,
-  "esversion": 6
+  "license": "ISC"
 }
